@@ -1,0 +1,14 @@
+https://www.katacoda.com/openshift/courses/operatorframework/go-operator-podset
+
+The following is the workflow for a new Go-based Operator with the Operator SDK:
+
+Create a new Operator project using the SDK CLI.
+Create a new Custom Resource Definition API Type using the SDK CLI.
+Add your Custom Resource Definition (CRD) to your live Kubernetes cluster.
+Define your Custom Resource Spec and Status.
+Create a new Controller for your Custom Resource Definition API.
+Write the reconciling logic for your Controller.
+Run the Operator locally to test your code against your live Kubernetes cluster.
+Add your Custom Resource (CR) to your live Kubernetes cluster and watch your Operator in action!
+After you are satisifed with your work, use the SDK CLI to build and generate the Operator Deployment manifests.
+Optionally add additional APIs and Controllers using the SDK CLI.
