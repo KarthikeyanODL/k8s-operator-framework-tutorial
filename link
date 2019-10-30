@@ -1,3 +1,9 @@
+https://coreos.com/blog/introducing-operator-framework
+https://banzaicloud.com/blog/operator-sdk/
+https://github.com/operator-framework/awesome-operators
+https://github.com/operator-framework/getting-started
+https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md
+
 https://www.katacoda.com/openshift/courses/operatorframework/go-operator-podset
 
 The following is the workflow for a new Go-based Operator with the Operator SDK:
